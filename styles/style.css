@@ -21,4 +21,20 @@ ul{
   list-style: none;
   padding: 0;
 }
-
+.titulo{
+  padding: 30px;
+}
+.contenido{
+  padding: 40px 50px;
+}
+li a{
+  color: #FFFFFF;     
+  text-decoration: none; 
+  transition: color 0.3s;
+}
+li a :hover {        
+  color: #138AC1;
+}
+li a:active {
+  color: #138AC1;
+}
